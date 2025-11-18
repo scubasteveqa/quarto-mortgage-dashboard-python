@@ -5,6 +5,7 @@ format:
     theme: [litera, custom.scss]
     orientation: columns
 logo: logo.png
+server: shiny
 ---
 
 ```{python}
